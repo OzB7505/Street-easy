@@ -12,7 +12,36 @@ function App() {
       <DataView
       borough="Staten Island"
       renterCost="14,292"
-      ownerCost="29,752"/>
+      ownerCost="29,752"
+      renterIncome="37,882"
+      ownerIncome="94,177"/>
+      <DataView
+      borough="Bronx"
+      renterCost="14,292"
+      ownerCost="29,752"
+      renterIncome="37,882"
+      ownerIncome="94,177"
+      />
+      <DataView
+      borough="Queens"
+      renterCost="14,292"
+      ownerCost="29,752"
+      renterIncome="37,882"
+      ownerIncome="94,177"
+      />
+      <DataView
+      borough="Mannhattan"
+      renterCost="14,292"
+      ownerCost="29,752"
+      renterIncome="37,882"
+      ownerIncome="94,177"
+      />
+      <DataView
+      borough="Brooklyn"
+      renterCost="14,292"
+      ownerCost="29,752"
+      renterIncome="37,882"
+      ownerIncome="94,177"/>
     </div>
   );
 }
